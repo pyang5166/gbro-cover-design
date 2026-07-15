@@ -10,7 +10,20 @@
 
 ## 效果
 
-<!-- 示例封面图：assets/examples/ -->
+<table>
+  <tr>
+    <td><img src="assets/examples/01-让AI做我老板.webp" width="180"/></td>
+    <td><img src="assets/examples/02-下一代Agent来了.webp" width="180"/></td>
+    <td><img src="assets/examples/03-3个Skills一个运营部.webp" width="180"/></td>
+    <td><img src="assets/examples/04-别再自己操作电脑了.webp" width="180"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/examples/05-我真不该做这期视频.webp" width="180"/></td>
+    <td><img src="assets/examples/06-一键制作拼贴动画.webp" width="180"/></td>
+    <td><img src="assets/examples/07-养Agent晚了还有救吗.webp" width="180"/></td>
+    <td><img src="assets/examples/08-AI生视频不是模型.webp" width="180"/></td>
+  </tr>
+</table>
 
 ---
 
